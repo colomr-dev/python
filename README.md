@@ -48,4 +48,4 @@ El repositorio está organizado en las siguientes secciones:
 
 ---
 
-🎉 ¡Explora, experimenta y diviértete con Python!
+
