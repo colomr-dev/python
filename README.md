@@ -1,4 +1,4 @@
-# 🐍 Python: Cajón de Pruebas y Aprendizaje
+# 🐍 Python: Cajón Desastre y Aprendizaje
 
 Este repositorio es un espacio donde guardo y organizo mis experimentos, pruebas y proyectos con Python. Aunque pueda parecer un "cajón desastre", sigue una estructura mínima para mantener todo organizado según el tipo de contenido.
 
